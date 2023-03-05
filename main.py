@@ -81,3 +81,12 @@ def draw_eye_asleep(x, y):
     p5.stroke(200, 200, 200)
     p5.arc(0, 18, 50, 50, p5.radians(230), p5.radians(310)) # upper lid
     p5.pop()
+
+    def keyPressed(event):
+    pass
+
+def keyReleased(event):
+    pass
+
+def mouseReleased(event):
+    pass
